@@ -1,5 +1,6 @@
 body {
   background: rgb(226, 248, 255)
+
 }
 
 
@@ -11,10 +12,34 @@ body {
   justify-content: center;
 }
 
-.top{
+.square{
   background: white;
   border: solid 1px black;
   height: 30px;
   width: 30px;
   text-align: center;
 }
+
+.btn {
+  background-color: lightgrey;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+.homeFleet {
+  background-color: grey;
+  height: 150px;
+  width: 400px;
+}
+.side{
+
+  background: white;
+  border: solid 1px black;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+}
+
+
+
